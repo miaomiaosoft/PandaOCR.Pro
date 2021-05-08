@@ -20,4 +20,4 @@
 
 ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8801.png)
 
-![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8803.jpg)
+![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8803.png)
