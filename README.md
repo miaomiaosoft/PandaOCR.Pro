@@ -15,6 +15,12 @@
 - 优化了截图组件2，现在你可以在截图时快速选择应该使用哪类引擎识别，如搜图，扫码，上传图床或识别公式，而不用在程序界面频繁切换。
 - 优化了设置操作，多数设置可直接在程序界面中切换或修改，减少频繁手工编辑配置文件，为新手在使用上提供便利。
 
+# 下载
+- 更新日志：https://github.com/miaomiaosoft/PandaOCR.Pro/releases
+- 蓝奏网盘：https://miao520.lanzoui.com/b016ct8ob  提取码：8888
+- 百度网盘：https://pan.baidu.com/s/1gaUeeETeGwvNb5-PUYjxqQ  提取码: kpgh
+- 腾讯网盘：https://share.weiyun.com/jpS7MkHB
+
 # 预览
 ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8802.jpg)
 
