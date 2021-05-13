@@ -21,7 +21,7 @@
 - 百度网盘：https://pan.baidu.com/s/1gaUeeETeGwvNb5-PUYjxqQ  提取码: kpgh
 - 腾讯网盘：https://share.weiyun.com/jpS7MkHB
 
-# 预览
+# 预览（如果看不到图请到备用主页查看：https://gitee.com/DDDDDGOOO/PandaOCR.Pro）
 ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8802.jpg)
 
 ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8801.png)
