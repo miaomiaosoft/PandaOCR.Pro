@@ -16,6 +16,7 @@
 - 优化了设置操作，多数设置可直接在程序界面中切换或修改，减少频繁手工编辑配置文件，为新手在使用上提供便利。
 
 # 下载
+- 最新版本：5.23 | 更新日期：2021-05-16
 - 更新日志：https://github.com/miaomiaosoft/PandaOCR.Pro/releases
 - 蓝奏网盘：https://miao520.lanzoui.com/b016ct8ob  提取码：8888
 - 百度网盘：https://pan.baidu.com/s/1gaUeeETeGwvNb5-PUYjxqQ  提取码: kpgh
