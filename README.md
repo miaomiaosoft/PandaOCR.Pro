@@ -40,6 +40,6 @@
 
 ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8803.png)
 
-# 最后，用一张图告诉你旧版PandaOCR内部是什么样子以及你应该知道为什么要重写PandaOCR.Pro
+### 最后，还是用一张图来告诉你旧版PandaOCR的内部是什么样以及你现在应该知道为什么要重写PandaOCR.Pro
 
 ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/Why.PandaOCR.Pro.jpg)
