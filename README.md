@@ -31,15 +31,15 @@
 - https://support.qq.com/products/322047/faqs-more
 - https://github.com/miaomiaosoft/PandaOCR.Pro/wiki
 
-# 预览
-如果看不到图请到备用主页查看：https://gitee.com/DDDDDGOOO/PandaOCR.Pro
+# 预览（如果看不到图请到备用主页查看：https://gitee.com/DDDDDGOOO/PandaOCR.Pro）
 
+- 截图界面：
 ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8802.jpg)
-
+- 预览弹窗：
 ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8801.jpg)
-
+- 接口展示：
 ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8803.png)
-
-### 最后，还是用一张图来告诉你旧版PandaOCR的内部是什么样以及你现在应该知道为什么要重写PandaOCR.Pro
-
-![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/Why.PandaOCR.Pro.jpg)
+- 位置排版：
+![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8804.png)
+- 丰富设置：
+![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8805.png)
