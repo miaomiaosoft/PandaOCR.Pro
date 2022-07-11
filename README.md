@@ -37,6 +37,8 @@
 
 - 截图界面：
 - ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8802.jpg)
+- 精简窗口：
+- ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E7%B2%BE%E7%AE%80%E7%AA%97%E5%8F%A31.png)
 - 整体效果：
 - ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8801.jpg)
 - 接口合影：
@@ -47,5 +49,3 @@
 - ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8805.png)
 - 高级功能：
 - ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8806.png)
-- 精简窗口：
-- ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E7%B2%BE%E7%AE%80%E7%AA%97%E5%8F%A31.png)
