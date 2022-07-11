@@ -21,8 +21,8 @@
 - 修复了PandaOCR上恢复焦点窗口时常失效的老问题。
 
 # 下载
-- 最新版本：5.41
-- 更新日期：2022-06-08
+- 最新版本：5.42
+- 更新日期：2022-07-11
 - 更新日志：https://github.com/miaomiaosoft/PandaOCR.Pro/releases
 - 蓝奏网盘：https://miao520.lanzoui.com/b016ct8ob  提取码：8888
 - 百度网盘：https://pan.baidu.com/s/1gaUeeETeGwvNb5-PUYjxqQ  提取码: kpgh
@@ -47,3 +47,5 @@
 - ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8805.png)
 - 高级功能：
 - ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8806.png)
+- 精简窗口：
+- ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E7%B2%BE%E7%AE%80%E7%AA%97%E5%8F%A31.png)
