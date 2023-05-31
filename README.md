@@ -43,7 +43,9 @@
 - ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8801.jpg)
 - 接口合影：
 - ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8803.png)
-- 智能排版：
+- 段落排版：
+- ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E6%AE%B5%E8%90%BD%E6%8E%92%E7%89%88%E4%BC%98%E5%8C%96.jpg)
+- 位置排版：
 - ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8804.png)
 - 丰富设置：
 - ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR.Pro/main/images/%E9%A2%84%E8%A7%8805.png)
