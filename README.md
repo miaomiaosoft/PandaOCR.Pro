@@ -8,7 +8,7 @@
 # 特性
 - 重构了整个程序，优化了程序逻辑，所以它理论上应该更稳定，更简洁和更快速。
 - 保留了PandaOCR上已有的大部分功能，同时也精简了少许可能会影响性能且不太常用的功能。
-- 增加了调用本地接口高级功能，专为开发者准备 [调用本地接口教程](https://support.qq.com/products/322047/faqs/95018)
+- 增加了调用本地接口高级功能，专为开发者准备 [调用本地接口教程](https://www.showdoc.com.cn/PandaOCR/11558471145804815)
 - 增加了多种离线OCR引擎调用能力，满足各种识别需求。
 - 增加了一些朋友需要的按OCR位置进行排版的功能，虽然目前还只是实验性，但日后还有优化空间。
 - 优化了行首缩进功能，旧版强行在行首添加多个空格蹩脚实现，现在改由编辑框原生显示，提升识别速度且更美观。
@@ -29,6 +29,7 @@
 - 腾讯网盘：https://share.weiyun.com/jpS7MkHB
 
 # 教程
+- https://www.showdoc.com.cn/PandaOCR
 - https://support.qq.com/products/322047/faqs-more
 - https://github.com/miaomiaosoft/PandaOCR.Pro/wiki
 
